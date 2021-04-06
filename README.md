@@ -1,17 +1,17 @@
-# Hi there :wave:, I'm TOMMY. <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
+# Hi there :wave:, I'm Kuhn. <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **A Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer.**
 
 <table>
 <tr>
 <td style = "width: 50%;">
 
-[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&show_icons=true)](http://apex.linn.top/)
+[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=xinkunlong&count_private=true&show_icons=true)](http://apex.linn.top/)
 
 </td>
 <td style = "width: 50%;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SummerFalls&layout=compact)](http://apex.linn.top/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinkunlong&layout=compact)](http://apex.linn.top/)
 
 </td>
 </tr>
