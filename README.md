@@ -118,27 +118,19 @@
   - `MindMotion Microelectronics` MM32F0
   - `AutoChips` AC7801x
 - IDE
-  - `VS Code`, `VS 2019`, `Keil μVision5`, `TrueStudio`, `STM32CubeIDE`, `S32 Design Studio`, MCUXpresso IDE, CodeWarrior, DAVE 4, `Code Composer Studio`, Vivado Design Suite HLx
+  - `VS Code`, `VS 2019`, `Keil μVision5`,  `STM32CubeIDE`, `S32 Design Studio`, MCUXpresso IDE, CodeWarrior, DAVE 4, `Code Composer Studio`, Vivado Design Suite HLx
 - EDA
   - `Altium Designer`
   - `EasyEDA`
 - RTOS
   - FreeRTOS
-  - uC/OS-II
-  - Azure RTOS ThreadX
-- Graphic Software Framework
-  - `Segger emWin`
-  - `TouchGFX`
-  - Azure RTOS GUIX
-  - LVGL
-  - u8g2
 - Low Layer Communication Protocol
-  - `CAN` (EzCAN, SAE J1939, UDS), LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
+  - `CAN` (UDS, bootloader,nm), LIN, , `I2C`, `SPI`,  `UART`
 
 </td>
 </tr>
 </table>
 
-⭐️ From [@SummerFalls](https://github.com/SummerFalls)
+⭐️ From [@xinkunlong](https://github.com/xinkunlong)
 
 [Pic_1]: https://raw.githubusercontent.com/SummerFalls/PCB_BusinessCard/master/2.Pics/PCB_BusinessCard.22.png
