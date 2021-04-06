@@ -84,29 +84,18 @@
 
 ## :seedling: Learning:
 
-- `Altium Designer 21`
-- `Autodesk Fusion 360`
-- `Adobe XD`
-- `TouchGFX`
-- `SAE J1939`
+- `vector communication stack`
 - `UDS (ISO14229, Unified Diagnostic Services)`
-- `Simulink Model-Based Design`
 
 ## :speech_balloon: Development Experience
 
 - MCU/DSP/SoC
   - `STMicroelectronics` STM32F0/F1/F3/F4/F7/G0/G4
-  - `Xilinx` Zynq SoC 7020/7035
-  - `Texas Instruments` C2000 DSP TMS320F28027/F28035/F280025C
   - `Infineon Technologies` XMC1100/XMC1300
-  - `NXP` S32K116/S32K142/S32K144/i.MX RT1050
+  - `NXP` S32K116/S32K142/S32K144/
   - `MindMotion Microelectronics` MM32F0
-  - `AutoChips` AC7801x
 - IDE
   - `VS Code`, `VS 2019`, `Keil μVision5`,  `STM32CubeIDE`, `S32 Design Studio`, MCUXpresso IDE, CodeWarrior, DAVE 4, `Code Composer Studio`, Vivado Design Suite HLx
-- EDA
-  - `Altium Designer`
-  - `EasyEDA`
 - RTOS
   - FreeRTOS
 - Low Layer Communication Protocol
