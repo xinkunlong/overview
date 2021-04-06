@@ -6,20 +6,6 @@
 <tr>
 <td style = "width: 50%;">
 
-[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=xinkunlong&count_private=true&show_icons=true)](http://apex.linn.top/)
-
-</td>
-<td style = "width: 50%;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinkunlong&layout=compact)](http://apex.linn.top/)
-
-</td>
-</tr>
-<tr>
-<td style = "width: 50%;">
-
-[![Pic_1][Pic_1]](https://github.com/SummerFalls/PCB_BusinessCard)
-
 ## :hammer_and_wrench: Languages and Tools:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -41,7 +27,6 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-444444?style=flat-square&logo=stack-overflow)
 ![Envato](https://img.shields.io/badge/-Envato-444444?style=flat-square&logo=Envato)
 
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=Altium-Designer&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
 ![GitBook](https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white)
