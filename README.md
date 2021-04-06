@@ -1,4 +1,4 @@
-# Hi there :wave:, I'm Kuhn. <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
+# Hi there :wave:, I'm Kuhn. <img src="https://komarev.com/ghpvc/?username=xinkunlong" alt="xinkunlong" />
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer.**
 
